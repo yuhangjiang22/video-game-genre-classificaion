@@ -1,1 +1,1 @@
-# video-game-dataset
+# video-game-genre-classification
